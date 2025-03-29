@@ -1,0 +1,8 @@
+Engineering Onboarding Checklist
+Week 1:
+- Set up GitHub, Jira, and Slack
+- Join the #eng-onboarding Slack channel
+- Complete security training
+Week 2:
+- Attend architecture overview
+- Shadow a code review

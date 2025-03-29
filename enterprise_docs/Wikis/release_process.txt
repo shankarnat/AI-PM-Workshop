@@ -1,0 +1,6 @@
+Release Process - Engineering Team
+1. Create release branch
+2. QA review
+3. Merge to main
+4. Notify stakeholders via release Slack channel
+Docs: confluence.company.com/eng/release-process

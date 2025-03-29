@@ -1,0 +1,4 @@
+Data Protection Policy (DPP)
+- All personal data must be encrypted at rest and in transit
+- Access should be role-based and logged
+- Breach must be reported within 24 hours to Security team
