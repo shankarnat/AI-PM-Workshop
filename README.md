@@ -2,9 +2,13 @@
 
 A hands-on program combining technical implementation with product management best practices to build enterprise-ready AI applications with RAG, prompt engineering, and multi-agent systems.
 
-🚀 About This Repository
+🚀 About This Repository 
+
 This repository contains the curriculum, code samples, and project materials for the 6-Week AI App Mastery Workshop. As you progress through building a multi-agent knowledge assistant, you'll learn to balance technical implementation with product thinking at every step.
+
+
 🎯 Final Project: Multi-Agent Knowledge Assistant
+
 By the end of the workshop, you'll build a comprehensive multi-agent system that includes:
 
 Build a multi-agent knowledge assistant that combines:
