@@ -39,6 +39,7 @@ def load_enterprise_documents(
 
         for document in loaded_docs:
             document.metadata["category"] = category
+            print (document)
 
 
 
@@ -53,6 +54,7 @@ def load_enterprise_documents(
                     document.metadata["category"] = category
             else:
                 document.metadata["category"] = category
+            print (type(document))
 
 
         documents.extend(loaded_docs)
@@ -91,4 +93,4 @@ if __name__ == "__main__":
     docs = load_enterprise_documents()
     print(f"✅ Loaded {len(docs)} chunks.")
     print("📄 Sample chunk content:\n", docs[0].page_content[:225])
-    print("🧾 Metadata:\n", docs[0].metadata)
+    print("🧾 Metadata:\n", docs[1].metadata)
