@@ -20,32 +20,32 @@ Build a multi-agent knowledge assistant that combines:
 🗓️ Weekly Breakdown
 Each week combines technical concepts with PM frameworks:
 
-Foundations of RAG & Enterprise Knowledge Base
+- Week 1: Foundations of RAG & Enterprise Knowledge Base
 
 PM Focus: User personas, data compliance, success metrics
 
 
-Prompt Engineering & Retrieval-Augmented Q&A
+- Week 2: Prompt Engineering & Retrieval-Augmented Q&A
 
 PM Focus: UX clarity, answer formats, strategy trade-offs
 
 
-Summarization & Synthesis with Claude
+- Week 3: Summarization & Synthesis with Claude
 
 PM Focus: Use case definition, quality checklist, model selection
 
 
-Multi-Agent Orchestration & Classification
+- Week 4: Multi-Agent Orchestration & Classification
 
 PM Focus: Assistant scope boundaries, handoff experiences, flow transparency
 
 
-Evaluation, Testing & Iterative Refinement
+- Week 5: Evaluation, Testing & Iterative Refinement
 
 PM Focus: Metrics definition, UAT planning, compliance handling
 
 
-Capstone – Multi-Agent Assistant Integration
+- Week 6: Capstone – Multi-Agent Assistant Integration
 
 PM Focus: Launch planning, stakeholder presentation, roadmap development
 
