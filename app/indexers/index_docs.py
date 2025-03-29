@@ -1,7 +1,7 @@
 import os
 from langchain.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings
 from app.loaders.load_docs import load_enterprise_documents
+from langchain_community.embeddings import HuggingFaceEmbeddings
 
 INDEX_PATH = "vector_index/faiss_index"
 
@@ -17,7 +17,8 @@ def index_documents():
     # optional fields like page_content
 
     # Step 2: Create embeddings
-    embeddings = OpenAIEmbeddings()  # you can swap this with HuggingFace embeddings
+    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+  # you can swap this with HuggingFace embeddings
     # We use OpenAI embeddings in this example, but you can use other
     # embedding models like HuggingFace or your own custom model
 
